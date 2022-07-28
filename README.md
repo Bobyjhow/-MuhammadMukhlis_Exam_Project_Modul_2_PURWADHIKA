@@ -13,7 +13,7 @@ Pertanyaan di atas masih tergolong abstrak dan tidak jelas arahnya, maka dari it
 1.	Pengaruh lamanya usia video dari ditayangkan sampai menjadi tren terhadap jumlah video, views, like, dislike, dan jumlah komentar.
 2.	Hubungan atau korelasi dari view terhadap berbagai variabel, mengapa view pada video yang tren merupakan faktor yang penting.
 3.	Proporsi banyaknya video per jam tayang video
-4.	Proporsi banyaknya video per kategori atau jenis video
+4.	Proporsi banyaknya video per kategori atau jenis video<br>
 Untuk menjawab pertanyaan di atas, akan dilakukan serangkaian analisa2 baik secara descriptive statistic maupun inferensial statistic. Sebelum melakukan Analisa terhadap data, terlebih dahulu akan dilakukan data understanding dan data cleaning. Hal ini dilakukan supaya data benar-benar siap untuk dilakukan Analisa.
 
 Setelah dilakukan serangkaian Analisa dari data tersebut, diambil sejumlah insight yang akan dipaparkan pada bagian rekomendasi dan saran.
