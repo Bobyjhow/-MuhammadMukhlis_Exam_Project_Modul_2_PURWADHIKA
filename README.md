@@ -21,9 +21,10 @@ Pertanyaan di atas masih tergolong abstrak dan tidak jelas arahnya, maka akan di
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Untuk menjawab pertanyaan di atas, akan dilakukan serangkaian analisa baik secara *descriptive statistic* maupun *inferensial statistic*. Sebelum melakukan analisa terhadap data, terlebih dahulu akan dilakukan *data understanding* dan *data cleaning*. Hal ini dilakukan supaya data benar-benar siap untuk dilakukan Analisa.
 
 Setelah dilakukan serangkaian analisa dari data tersebut, diambil sejumlah insight yang akan dipaparkan pada bagian rekomendasi dan saran.
-
-
-
+|
+|
+|
+|
 Muhammad Mukhlis JC Data Science and Machine Learning
 
 
