@@ -24,5 +24,8 @@ Setelah dilakukan serangkaian analisa dari data tersebut, diambil sejumlah insig
 
 
 
+Muhammad Mukhlis JC Data Science and Machine Learning
+
+
 
 
