@@ -3,7 +3,6 @@
 ## Capstone Project Modul 2 : Data Analyst
 
 Capstone ini akan membahas analisa dari sebuah data yang diambil dari kaggle yang bernama **Trending YouTube Video Statistics** (dataset dapat diakses [di sini](https://drive.google.com/drive/folders/1JFhDSfs4vzWuCdsBFObEp5sVLQMo-dR1)). Summary pembahasannya adalah sebagai berikut:
--
 
 
 Youtube adalah website tempat berbagi video secara gratis. Walaupun pengguna Youtube mengakses secara gratis, Youtube tetap membayar sejumlah uang yang besarnya bervariasi kepada pembuat atau penyedia video (*content creator*) di dalamnya. Bayaran yang menggiurkan dan tidak adanya batasan usia untuk menjadi *content creator*, membuat Youtube dijadikan sebagai pekerjaan tetap bagi para *content creator* . Selama *content creator* dapat menyediakan video yang dapat ditonton oleh banyak orang, Youtube tidak segan-segan akan membayar sejumlah uang tergantung dari banyaknya *view* pada video yang dibuat. Namun akun atau *channel* milik *content creator* harus diverifikasi terlebih dahulu sehingga akan mengikat pada term and agreement. Dilihat dari cara mendapatkan uang pada Youtube yang tergolong mudah, tak heran banyak orang yang berbondong-bondong untuk menjadi *content creator* pada *website* raksasa ini. Namun ada hal yang perlu diperhatikan bagi para *content creator* pemula yaitu bagaimana mereka "menjual" video mereka supaya dapat di-*view* oleh banyak orang sehingga *channel* mereka dapat berkembang dan dikenal. Youtube memiliki fitur berlangganan bernama "*subscribe*", fitur ini menjadi daya tarik sebuah *channel* dengan menampilkan berapa banyak *subscriber* yang ada pada *channel* tersebut sehingga banyak menarik perhatian banyak orang. Bagi pemula, menaikkan jumlah *subscriber* bukan perkara yang mudah. Mereka harus bekerja keras untuk mengiklankan video mereka kepada orang-orang. Namun ada salah satu cara supaya orang-orang dapat melirik *channel* para pemula dengan memanfaatkan fitur "*Youtube Trending Videos*". Fitur ini akan menjajakan video apa saja yang sedang tren di beranda pengguna Youtube. Tren video dikategorikan baik dari tiap negara sampai seluruh dunia tak terkecuali Negara US. Tidak peduli video yang sedang tren berasal dari *channel* yang terkenal ataupun tidak, selama video ditonton oleh banyak orang, dapat dikatakan "pasti" orang-orang yang menonton video tersebut akan mengunjungi *channel* dari pemilik video tren tersebut. Hal ini menjadi kesempatan besar bagi para pemula supaya *channel*-nya dilirik oleh banyak orang yang berpotensi menjadi *subscriber*.<br>
@@ -21,7 +20,7 @@ Pertanyaan di atas masih tergolong abstrak dan tidak jelas arahnya, maka dari it
 Untuk menjawab pertanyaan di atas, akan dilakukan serangkaian analisa2 baik secara *descriptive statistic* maupun *inferensial statistic*. Sebelum melakukan Analisa terhadap data, terlebih dahulu akan dilakukan data understanding dan data cleaning. Hal ini dilakukan supaya data benar-benar siap untuk dilakukan Analisa.
 
 Setelah dilakukan serangkaian Analisa dari data tersebut, diambil sejumlah insight yang akan dipaparkan pada bagian rekomendasi dan saran.
-
+-
 
 
 
