@@ -24,8 +24,10 @@ Setelah dilakukan serangkaian analisa dari data tersebut, diambil sejumlah insig
 <br>
 <br>
 <br>
-Muhammad Mukhlis JC Data Science and Machine Learning
+<br>
 
+Muhammad Mukhlis JC Data Science and Machine Learning
+-
 
 
 
