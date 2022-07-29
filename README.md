@@ -20,7 +20,23 @@ Pertanyaan di atas masih tergolong abstrak dan tidak jelas arahnya, maka akan di
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Untuk menjawab pertanyaan di atas, akan dilakukan serangkaian analisa baik secara *descriptive statistic* maupun *inferensial statistic*. Sebelum melakukan analisa terhadap data, terlebih dahulu akan dilakukan *data understanding* dan *data cleaning*. Hal ini dilakukan supaya data benar-benar siap untuk dilakukan Analisa.
 
-Setelah dilakukan serangkaian analisa dari data tersebut, diambil sejumlah insight yang akan dipaparkan pada bagian rekomendasi dan saran.
+Setelah dilakukan serangkaian analisa dari data tersebut, diambil sejumlah insight yang isinya adalah:
+ 
+1. View adalah faktor terkuat utama terhadap video yang tren (penjelasan ada di kesimpulan nomor 6).
+
+2. Tidak peduli berapa lama usia video sejak ditayangkan, seluruh video tetap memiliki kesempatan untuk menjadi trending. 
+
+3. Jika video ingin trending dalam waktu yang cepat, dalam kurun waktu 15 hari `days until trending` memiliki pengaruh yang besar terhadap `view`, `like`, `dislike`, dan `jumlah komentar`. Hal ini tentu akan dirasa sulit bagi para pemula yang mengejar jumlah `view` setidaknya paling sedikit sebanyak 100 ribu.
+
+4. `View` terkecil supaya video menjadi tren dipengaruhi oleh performa penayangan video terhadap performa dari penayangan video-video sebelumnya dengan channel yang sama. Hal ini membuat `view` terkecil nilainya masih bias karena angka 100 ribu-pun masuk ke dalam kategori.
+
+5. Hasil korelasi membuat kejelasan dari pernyataan kesimpulan nomor 2 bahwa ketika `days until trending` dari video yang sudah melebihi 32 hari, maka dipastikan pengaruhnya kecil sekali. Berbeda dengan `view` yang korelasinya benar-benar kuat terhadap variabel lainnya.
+
+6. Korelasi kuat yang ditunjukkan pada `view` memastikan bahwa pengaruh `view` terhadap video yang tren adalah faktor utama. Hal ini juga diperkuat oleh pernyataan resmi dari Youtube (bisa diakses [di sini](https://support.google.com/youtube/answer/7239739?hl=en)), dan tak sengaja kita juga membuktikan kebenaran dari pernyataan tersebut.
+
+7. `Jam tayang` sebuah video tidak bisa menjadi acuan jika kita memasukkan seluruh data. Sebaliknya dalam kurun waktu kurang dari 2 hari, waktu `jam tayang` yang paling berpengaruh adalah dari siang hari menjelang sore hari.
+
+8. Minat tontonan video yang tren pada negara US adalah `Entertaintment` kemudian `Music` dan disusul `How to & Style`. Hal ini bisa dijadikan kategori acuan bagi para pemula yang ingin memulai karir sebagai content creator pada Youtube.
 <br>
 <br>
 <br>
