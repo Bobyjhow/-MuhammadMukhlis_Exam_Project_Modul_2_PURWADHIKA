@@ -1,6 +1,6 @@
 # Tentang repository ini :
 
-## Capstone Project Modul 2 : Data Analyst
+## Capstone Project Modul 2 Purwadhika : Data Analyst
 
 Capstone ini akan membahas analisa dari sebuah data yang diambil dari kaggle yang bernama **Trending YouTube Video Statistics** (dataset dapat diakses [di sini](https://drive.google.com/drive/folders/1JFhDSfs4vzWuCdsBFObEp5sVLQMo-dR1)). Summary pembahasannya adalah sebagai berikut:
 
