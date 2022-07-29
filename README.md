@@ -22,9 +22,9 @@ Pertanyaan di atas masih tergolong abstrak dan tidak jelas arahnya, maka akan di
 
 Setelah dilakukan serangkaian analisa dari data tersebut, diambil sejumlah insight yang isinya adalah:
  
-1. View adalah faktor terkuat utama terhadap video yang tren (penjelasan ada di kesimpulan nomor 6).
+1. `View` adalah faktor terkuat utama terhadap video yang tren (penjelasan ada di kesimpulan nomor 6).
 
-2. Tidak peduli berapa lama usia video sejak ditayangkan, seluruh video tetap memiliki kesempatan untuk menjadi trending. 
+2. Tidak peduli berapa lama usia video sejak ditayangkan, `seluruh video` tetap memiliki kesempatan untuk menjadi trending. 
 
 3. Jika video ingin trending dalam waktu yang cepat, dalam kurun waktu 15 hari `days until trending` memiliki pengaruh yang besar terhadap `view`, `like`, `dislike`, dan `jumlah komentar`. Hal ini tentu akan dirasa sulit bagi para pemula yang mengejar jumlah `view` setidaknya paling sedikit sebanyak 100 ribu.
 
